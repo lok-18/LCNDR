@@ -30,3 +30,11 @@ python main.py --test_only
 ## Result
 
 You can get reuslts in `./result`.
+
+## Citation
+
+If this work is helpful to you, please cite it as:
+```
+Waiting for accept...
+
+```
