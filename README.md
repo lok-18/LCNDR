@@ -14,10 +14,7 @@ pytorch_msssim
 
 ## Dataset
 
-We have put in an image for testing.
-
-## Train
-We will provide the training code after the article is accepted.
+You can use pre-set images directly for testing。
 
 ## Test
 
@@ -26,4 +23,5 @@ python main.py --test_only
 ```
 
 ## Result
+
 You can get reuslts in `./result`.
