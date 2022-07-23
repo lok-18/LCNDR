@@ -5,9 +5,9 @@ Detail-refinement Multi-exposure Image Fusion".
 
 ## Environment
 
-Python >= 3.7  
-PyTorch >= 1.4.0 is recommended  
-opencv-python = 4.5.1  
-matplotlib  
-tensorboard  
-pytorch_msssim  
+$\cdot$ Python >= 3.7  
+$\cdot$ PyTorch >= 1.4.0 is recommended  
+$\cdot$ opencv-python = 4.5.1  
+$\cdot$ matplotlib  
+$\cdot$ tensorboard  
+$\cdot$ pytorch_msssim  
