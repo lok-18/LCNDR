@@ -1,7 +1,8 @@
 # LCNDR
 
 The official code of "Learning a Coordinated Network for
-Detail-refinement Multi-exposure Image Fusion". (Minor Revision)
+Detail-refinement Multi-exposure Image Fusion". (Minor Revision)  
+The code will be continued to improve for readers.
 
 ## Environment
 
@@ -14,11 +15,11 @@ pytorch_msssim
 
 ## Dataset
 
-You can use pre-set images directly for testing.
+You can use pre-set images directly for testing or deploy your own dataset in `./dataset/test_data`.
 
 ## Model
 
-The pre-trained is in `./model`.
+The trained model by us is in `./model`.
 
 ## Test
 
