@@ -14,7 +14,11 @@ pytorch_msssim
 
 ## Dataset
 
-You can use pre-set images directly for testing。
+You can use pre-set images directly for testing.
+
+## Model
+
+The pre-trained is in `./model`.
 
 ## Test
 
