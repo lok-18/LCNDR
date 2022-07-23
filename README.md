@@ -8,9 +8,9 @@ The code will be continued to improve for readers.
 
 ```
 Python = 3.7  
-PyTorch = 1.7.1 
-opencv-python = 4.5.4   
-pytorch_msssim  
+torch = 1.7.1 
+torchvision = 0.8.2
+opencv-python = 4.5.4     
 ```
 
 ## Dataset
