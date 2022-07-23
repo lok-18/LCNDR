@@ -11,3 +11,8 @@ PyTorch = 1.7.1
 opencv-python = 4.5.4   
 pytorch_msssim  
 ```
+## Test
+
+```
+python main.py --test_only
+```
